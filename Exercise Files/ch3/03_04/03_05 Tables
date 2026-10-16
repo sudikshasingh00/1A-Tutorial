@@ -33,18 +33,21 @@
         </caption>
         <tr>
             <th></th>
-            <th>Heading 1</th>
-            <th>Heading 2</th>
+            <th>S</th>
+            <th>M</th>
+            <TH>L</TH>
         </tr>
         <tr>
             <th>width</th>
-            <td>row 2, column 1</td>
-            <td>row 1, column 2</td>
+            <td>20</td>
+            <td>21</td>
+            <td>22</td>
         </tr>
         <tr>
             <th>length</th>
-            <td>row 3, column 1</td>
-            <td>row 3, column 2</td>
+            <td>27</td>
+            <td>28</td>
+            <td>29</td>
         </tr>
     </table>
 
