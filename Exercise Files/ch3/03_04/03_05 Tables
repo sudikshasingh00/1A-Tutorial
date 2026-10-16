@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <table>
+        <caption>
+            Caption for the table 
+        </caption>
+        <tr>
+            <th></th>
+            <th>Heading 1</th>
+            <th>Heading 2</th>
+        </tr>
+        <tr>
+            <th>heading, row 2</th>
+            <td>row 2, column 1</td>
+            <td>row 1, column 2</td>
+        </tr>
+        <tr>
+            <th>heading, row 3</th>
+            <td>row 3, column 1</td>
+            <td>row 3, column 2</td>
+        </tr>
+    </table>
+
+    <table>
+        <caption>
+            Size Guide (inches) 
+        </caption>
+        <tr>
+            <th></th>
+            <th>Heading 1</th>
+            <th>Heading 2</th>
+        </tr>
+        <tr>
+            <th>width</th>
+            <td>row 2, column 1</td>
+            <td>row 1, column 2</td>
+        </tr>
+        <tr>
+            <th>length</th>
+            <td>row 3, column 1</td>
+            <td>row 3, column 2</td>
+        </tr>
+    </table>
+
+
+</body>
+</html>
